@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+# Sample Hardhat Project For Mint 100 ERC-20 SwissTronik
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+This is an exercise for deploying Mint 100 ERC20 token contract on  SwissTronik network. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
 
 Try running some of the following tasks:
 
